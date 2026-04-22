@@ -28,7 +28,7 @@
             "carga-horaria":"1200 horas"
         }
     ], 
-    "Professores":[
+    "professores":[
         { "id":1, "nome":"Daniel" },
         { "id":2, "nome":"Votto" },
         { "id":2, "nome":"Nathane" },
